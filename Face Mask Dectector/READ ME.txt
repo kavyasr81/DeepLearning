@@ -1,0 +1,3 @@
+The objective is to create a Face Mask Detector using CNN and OpenCV.
+
+Used haarcascade_frontalface_default.xml to detect faces
