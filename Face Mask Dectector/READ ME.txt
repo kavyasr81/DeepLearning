@@ -1,3 +1,5 @@
 The objective is to create a Face Mask Detector using CNN and OpenCV.
 
 Used haarcascade_frontalface_default.xml to detect faces
+
+Dataset: https://data-flair.training/blogs/download-face-mask-data
