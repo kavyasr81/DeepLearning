@@ -1,0 +1,3 @@
+The  objective  is  to classify the radio signalsfrom outer spaceinto one of
+the four classes using CNN
+Classes: “squiggle”, “narrowband”, “narrowbanddrd”, and “noise”
