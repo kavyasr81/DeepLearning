@@ -16,3 +16,9 @@ Validation Data:
  - val_images: Normalized values of Pixels
  - val_labels: Stored as One-Hot Encoded data
  - Classes: “squiggle”, “narrowband”, “narrowbanddrd”, and “noise”
+
+The  objective  is  to classify the radio signals from outer space into one of
+the four classes using CNN.
+
+
+Dataset: https://www.kaggle.com/tentotheminus9/seti-data/home
