@@ -22,3 +22,5 @@ the four classes using CNN.
 
 
 Dataset: https://www.kaggle.com/tentotheminus9/seti-data/home
+
+Python file : 
